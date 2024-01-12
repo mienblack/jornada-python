@@ -1,0 +1,7 @@
+#01 Entrar no sistema da empresa
+#02 Fazer login
+#03 Importar base de dados
+#04 Cadastrar um produto
+#05 Repetir isso até  acabar a base de dados
+
+- instalar pyautogui
