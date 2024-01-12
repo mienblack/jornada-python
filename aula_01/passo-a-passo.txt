@@ -5,3 +5,4 @@
 #05 Repetir isso até  acabar a base de dados
 
 - instalar pyautogui
+- instalar pandas

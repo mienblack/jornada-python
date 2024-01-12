@@ -1,8 +1,6 @@
 import pyautogui
 import time
 import pandas as pd
-import numpy
-import openpyxl
 
 pyautogui.PAUSE = 1 #Pausa de 1s a cada comando do pyautogui
 
